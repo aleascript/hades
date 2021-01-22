@@ -183,10 +183,14 @@ Il y a des éléments nécessaires pré-établis à la création des protagonist
 
 On pourrait avoir un certain nombre de fortunes qui ne peuvent être utilisée que pour révéler le protagoniste dans les premières sessions. 
 
-Mais cela pose deux questions: 
+Mais cela pose alors deux questions: 
 
 1. Quel nombre attribuer en début de partie ? 
 2. A quel moment bascule-t'on sur le mode fortune qui permet de modifier un résultat et de demander un rebondissement positif à la Destinée ? 
+
+**Piste avec un pool de révélations** 
+
+La Destinée pourrait construire son jeu en définissant un nombre de révélations possibles après la création du protagoniste pour permettre pendant le jeu de révéler des traits (non implicites) en dehors du mécanisme des Fortunes qui lui prendrait ensuite le relais une fois les révélations épuisées.  
 
 ### Création du jeu 
 
@@ -204,7 +208,7 @@ Faire des allers retours entre les étapes suivantes:
 
 L'idée est d'enrichir l'univers et les éléments du jeu tout en jouant. 
 
-Note: a priori, on joue sans tenir en compte la jauge de destin. 
+Note: a priori, on joue sans prendre en compte le Destin. 
 
 ### Une pierre, deux coups
 
@@ -253,7 +257,7 @@ PERSONNAGES:
     - RALANDIS: veut devenir le nouveau chef 
     - KAILLA: refuse qu'un Uroxi devienne chef
     - BOURDABAR: veut manger le chef mort ! 
-    - CRIMOS: veut faire le choix le plus juste au yeux de Lankhor Mhy 
+    - CRIMOS: veut faire le choix le plus juste aux yeux de Lankhor Mhy 
     - ... 
 CONFLIT: chacun s'exprime mais c'est le Conseil (le Cercle interne) qui vote.
 D'un coté les avantages de Ralandis (lui meme et ceux acquis a sa cause) contre ceux qui ne veulent pas de lui. 
@@ -262,7 +266,7 @@ Exemple: revers -> le conseil demande à Ralandis de faire ses preuves
 avant le jour divin de la prochaine semaine de la Vérité 
 (dans 2 semaines donc!) 
 Il doit venger RIALTAR et apaiser les Dieux. 
-Le problème pour lui c'est que se faisant 
+Le problème pour lui c'est que ce faisant 
 il devra se détourner de ses obligations de lutte contre le Chaos 
 (conflit au sein des Uroxi, devra choisir entre combattre 
 un ennemi chaotique ou remplir sa quête 
