@@ -1014,9 +1014,11 @@ Un point de fortune permet de:
 
 Quand on n'a plus de point de fortune: 
 
- * les jauges restent en l'état pour la prochaine session. Dans certains cas, la Destinée pourra demander de transformer une jauge restante en trait durable _(par exemple, dans le cas où les récits des deux sessions sont très espacés dans le temps)_.
+ * on peut transformer un trait négatif éphémère ou une barre de jauge négative en trait négatif durable en cohérence avec la fiction. Cela offre ainsi la possibilité pour le Protagoniste en accord avec la Destinée d'obtenir un défaut qu'il aura plus de faciliter à assumer que le trait éphémère initial. 
+ * les jauges restantes gardent leur état pour la prochaine session. Dans certains cas, la Destinée pourra demander de transformer une jauge restante en trait durable _(par exemple, dans le cas où les récits des deux sessions sont très espacés dans le temps)_.
  * les traits négatifs éphémères restants deviennent durables et doivent être écrits dans la partie établie de la fiche du protagoniste.  
- * les traits positifs éphémères restants disparaissent de la fiche de personnage.  
+ * les traits positifs éphémères restants disparaissent de la fiche de personnage. 
+ 
 
 On remet à zéro ensuite le compteur de fortunes et de destin pour la prochaine session (sauf si l'état de la fiction veut qu'on redémarre là où on était).
 
@@ -1051,8 +1053,8 @@ Si on a besoin de déterminer qui a l'initiative au début de l'opposition, on p
 
 ## Jouer avec les puissances 
 
-* Certains talents, pouvoirs peuvent être héroïques. Dans ce cas, ils rapportent 2d.
-* On peut même envisager des talents, pouvoirs mythiques. Dans ce cas, ils rapportent 3d.
+* Certains talents, pouvoirs peuvent être héroïques. Dans ce cas, ils rapportent 2D.
+* On peut même envisager des talents, pouvoirs mythiques. Dans ce cas, ils rapportent 3D.
 
 Quand la Destinée recalcule le Destin, elle doit compter le nombre de dés et donc un talent héroïque coûte 2 points de destin et un talent mythique coûte 3 points de destin. 
 
@@ -1066,7 +1068,7 @@ En effet, un pouvoir n'est pas forcément puissant: il permet juste de faire des
 
 On note les caractéristiques héroïques en rajoutant un signe plus  `+` à côté. On note les caractéristiques mythiques en rajoutant deux signes plus `++` à côté.
 
-Grâce aux puissances, on pourrait aussi permettre de transformer une manœuvre en réflexe. Dans ce cas, une manœuvre pourrait être déclenchée sous forme de réflexe mais en n'amenant 1D de moins. Ainsi une manœuvre héroïque pourrait devenir un réflexe héroïque à 1D et une manœuvre mythique pourrait devenir un réflexe mythique à 2D. 
+Grâce aux puissances, on pourrait aussi permettre de transformer une manœuvre en réflexe. Dans ce cas, une manœuvre pourrait être déclenchée sous forme de réflexe mais en n'amenant 1D de moins. Ainsi une manœuvre héroïque pourrait devenir un réflexe héroïque à 1D et une manœuvre mythique pourrait devenir un réflexe mythique à 2D. Dans le premier cas, la résolution ne serait alors plus éligible au Deus Ex Alea alors que dans le deuxième cas, la résolution le serait (voir la prochaine section).
 
 ## Deus Ex Alea 
 
@@ -1095,6 +1097,10 @@ Le perdant de la confrontation obtient gratuitement autant de points que son amp
 Cela transforme donc totalement le résultat final de la confrontation. Le résultat est interprété narrativement comme une intervention hors-norme d'un élément extérieur. 
 
 On peut vouloir rendre l'intervention divine incontrôlable. Dans ce cas, on peut ne plus borner le résultat final et chaque point supplémentaire rajoute un effet **et** (préjudice ou bénéfice en plus). 
+
+**Corollaire du Deus Ex Alea**:
+
+Les personnages puissants pourraient avoir intérêt à jouer avec les personnages moins puissants en ne faisant pas étalage de tout leur potentiel et donc en n'utilisant qu'un seul de leur trait héroïque dans une résolution pour maximiser l'apparition du Deus Ex Alea. 
 
 # Modes de jeu alternatifs
 
