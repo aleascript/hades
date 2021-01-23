@@ -228,7 +228,7 @@ Egalement, avant d'expliquer comment résoudre par les dés, il faut savoir qu'o
 C'est alors à la Destinée de décider de l'issue en prenant en compte les éléments suivants: 
 
 * Si un Protagoniste utilise un trait, il peut être automatique et dans ce cas, la Destinée enlève un point au Destin.
-* S'il s'agit d'une action de base (par exemple se fournir en matériel qui ne nécessite pas forcément de jouer une scène de négociation), on peut partir du principe que le protagoniste obtient ce qu'il veut mais cela coûte un point de destin. Si l'on veut jouer la négociation, on peut l'avertir que cela augmentera d'une barre sa jauge de pauvreté et donc la négociation par les dés pourra infléchir cela. 
+* S'il s'agit d'une action de base (par exemple se fournir en matériel de base qui ne nécessite pas forcément de jouer une scène de négociation), on peut partir du principe que le protagoniste obtient ce qu'il veut mais cela coûte un point de destin. 
 * Si l'issue est incertaine malgré tout, la Destinée regarde le Destin. Si le Destin est négatif ou nul, l'issue sera plutôt négative et elle remonte d'un point le Destin. Si le Destin est positif, l'issue sera plutôt positive et elle baisse d'un point le Destin. 
 
 ## Résoudre avec les dés  
