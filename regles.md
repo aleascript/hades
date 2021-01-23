@@ -195,6 +195,9 @@ Cas à la marge: on peut également utiliser le Destin pour éviter des jets al�
 
 Le Destin est avant tout un outil pour la Destinée qui n'a pas besoin d'être exact ou précis. Faites-là évoluer lors des résolutions par les dés et sinon au fil de la partie comme mesure de votre "gentillesse" ou "méchanceté" vis à vis des Protagonistes lorsque ceux-ci interrogent la Destinée sur la situation et que cela ne nécessite pas vraiment une résolution par les dés.   
 
+Vous pouvez utiliser l'application Counter sur Android pour incrémenter et décrémenter facilement le Destin en cours de partie. En effet, cette application peut être configurée pour ne pas lancer la veille du smartphone quand on l'affiche. Pensez aussi à désactiver les sons et la vibrations pour garder secrète la valeur du Destin. Si vous avez une solution moins numérique et tout aussi pratique, n'hésitez pas à nous en faire part sur le [forum](https://github.com/aleascript/hades/discussions) ou par [mail](mailto://aleascript@gmail.com).
+
+
 # Résoudre 
 
 Nous allons rentrer maintenant voir le moteur de résolution du jeu qui permet de savoir exactement dans quelle direction l'histoire doit aller quand les Protagonistes annoncent des objectifs dont l'issue est incertaine. 
