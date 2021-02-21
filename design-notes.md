@@ -28,6 +28,98 @@ Les différents résultats sont dans la main de la Destinée. Il peut proposer d
 
 Evidemment à tout moment le protagoniste peut changer son objectif et c'est même souhaitable pour ne pas rendre le jeu monotone. 
 
+### Déterminer l'impact d'une situation 
+
+On ne veut pas jouer la situation, juste en connaitre l'issue. 
+
+Dans ce cas, les +/-1 sont difficiles à interpréter. On pourrait considérer que les +/-1 sont plutôt de l'ordre de l'émotion, du ressenti, du sentiment sans impact réel et cela renvoit donc à la classification suivante: 
+
+* +/-1: couleur 
+* +/-2: fait 
+* +/-3: extraordinaire
+
+### De l'irrésolution 
+
+La question précédente est en lien avec la qualité d'irrésolution du +/-1. 
+
+Dans certains cas, le -1/+1 pourrait déterminer qu'on n'y arrive pas mais qu'on pourra réessayer plus tard (à discrétion de la Destinée, lors d'un temps calme par exemple). Mais dans ce cas comment distinguer le presque du revers ? 
+
+- le revers empêcherait les autres d'essayer aussi (comment accorder cela avec la fiction?) 
+- le presque permet de donner un avantage lors du nouvel essai, alors que le revers donnerait un handicap ? (cohérent mais nécessite de s'en souvenir -> nécessité de tenir un compte des mémos de ce type sur l'écran de la Destinée)
+
+### Le paradoxe du sans appel 
+
+Comment décrire un résultat sans appel quand on ne sait pas encore si les protagonistes vont surenchérir ou pas ? 
+
+Les solutions possibles: 
+* La Destinée donne le choix entre la conséquence sans appel et la conséquence avec appel (donc souvent avec préjudice).
+* La Destinée choisit pour les protagonistes 
+
+### Quand un protagoniste ou un obstacle n'a aucun trait ? 
+
+La solution actuelle est de compter 1D rien que pour la présence dans l'opposition. 
+
+Mais ce n'est pas satisfaisant. Si l'on pouvait réaliser des tests simples (différents des oppositions) ca serait mieux. 
+
+Exemple: jet de danger d'une contrée: inconnue des joueurs, la guerre civile : donc 2D. La Destinée jette les dés et donc peut obtenir 0 pair: aucun danger, 1 pair: une difficulté surgit (ou un simple ressenti), 2 (un danger intervient vraiment), 3 (un danger extraordinaire surgit). 
+
+Exemple: jet de prière : 1D -> impair (RAS), pair (il se passe quelque chose) et surtout si +2. 
+
+Cela pourrait etre aussi simple que ca. 
+
+### Un jeu narratif guidé par les facteurs ?
+
+Est-ce que HaDes ne serait pas un jeu qui permet de mettre en avant tel ou tel facteurs (issus du jeu ou de la fiction) pour voir ce qui arrive ? 
+
+Dans ce cas, le rituel de jeu devrait être bien établi. 
+
+Le jeu devrait essayer de donner un maximum de pouvoir de liberté aux protagonistes. 
+
+### Probable/Improbable
+
+* Les -/+3 sont de l'ordre de l'improbable, de la surprise
+* Les -/+2 sont de l'ordre du plus évident. 
+* Les -/+1 sont entre les deux. Ils peuvent faire surgir le plus évident mais aussi faire intervenir quelque chose d'improbable. 
+
+Note: ce qui est notable c'est qu'a nouveau le pair (+/-2) apparait comme facteur prépondérant alors que l'impair (+/-1, +/-3) apparaisseent plutot comme des facteurs rares, important a posteriori mais négligeables a priori. 
+
+### Quand faire des jets ? 
+
+La question se pose d'autant plus que le jeu permet de faire des jets sur à peu près n'importe quoi. Il s'agit donc bien du canon du jeu dont il est question mais aussi d'une façon de savoir quand et pourquoi on jette les dés. 
+
+En particulier, le mode solo est a priori différent du mode groupe car par nature, le mode solo invite à plus de jets de dés pour faire émerger l'histoire. 
+
+### Jets contre soi, jets pour soi 
+
+Possibilité ou pas d'introduire le fait que la Destinée jette des dés pour les protagonistes derrière l'écran (jet pour soi), ou qu'il demande à un Protagoniste de jeter les dés de l'obstacle (jet contre soi). 
+
+### Revue des situations types 
+
+#### Soin 
+
+#### Résister à 
+
+#### Perception 
+
+#### Fabriquer 
+
+#### Combat 
+
+#### Cas du combat à distance 
+
+#### Se préparer 
+
+#### Convaincre, charmer, manipuler 
+
+#### Eviter 
+
+#### Désamorcer un piège 
+
+#### Course poursuite 
+
+#### Lutter contre les éléments 
+
+
 ### A propos du nommage des joueurs
 
 Dans une 1ere version, j'ai été tenté de distinguer: 
