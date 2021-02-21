@@ -1270,16 +1270,16 @@ Le résultat final sera égal à la différence entre le camp de l'obstacle et l
 
 On regarde ensuite à quel résultat cela correspond sur la table suivante:  
 
-* -3 et moins: **fiasco** _(~ vous subirez un préjudice)_
-* -2: **échec** _(~ l'objectif n'est pas atteint)_
-* -1 ou aucun pair: **revers** _(~ l'objectif n'est pas atteint mais encore possible)_
-* +1 ou égalité des pairs: **presque** _(~ l'objectif peut être partiellement atteint ou est en bonne voie de l'être)_
-* +2: **succès** _(~ l'objectif est atteint)_
-* +3 et plus: **exploit** _(~ vous obtiendrez un bénéfice)_
+* -3 et moins: **fiasco** _(~ Vous subirez un **préjudice**. Acceptez le résultat ou subissez un autre préjudice)_
+* -2: **échec** _(~ L'objectif n'est **pas atteint**. Acceptez le résultat ou subissez un préjudice.)_
+* -1 ou aucun pair: **revers** _(~ L'objectif n'est pas atteint mais **encore possible**.)_
+* +1 ou égalité des pairs: **presque** _(~ L'objectif peut être **partiellement atteint** ou est en **bonne voie** de l'être. Ou alors l'objectif est atteint mais vous subissez un préjudice.)_
+* +2: **succès** _(~ L'objectif est **atteint**. Vous pourriez même obtenir un bénéfice mais en échange d'un préjudice.)_
+* +3 et plus: **exploit** _(~ L'objectif est atteint et vous obtiendrez un **bénéfice**)_
 
-C'est la Destinée qui vous indiquera ce qui arrive ou qui vous proposera des options. En effet, les résultats présentés juste au-dessus sont une simplification des interprétations des résultats par la Destinée. 
+C'est la Destinée qui vous indiquera ce qui arrive ou qui vous proposera des options. 
 
-Il vous arrivera aussi d'obtenir de temps à autre des Fortunes qui vous permettront de faire évoluer votre personnage en fin de partie. Mais vous pourrez tout aussi bien les utiliser en cours de partie pour infléchir un résultat, faire une révélation sur votre protagoniste ou encore demander un retournement de situation. 
+Il vous arrivera aussi d'obtenir de temps à autre des **Fortunes** qui vous permettront de faire évoluer votre personnage en fin de partie. Mais vous pourrez tout aussi bien les utiliser en cours de partie pour infléchir un résultat, faire une révélation sur votre protagoniste ou encore demander un retournement de situation. 
 
 C'est aussi simple que ça. 
 
