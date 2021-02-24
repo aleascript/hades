@@ -47,6 +47,16 @@ Dans certains cas, le -1/+1 pourrait déterminer qu'on n'y arrive pas mais qu'on
 - le revers empêcherait les autres d'essayer aussi (comment accorder cela avec la fiction?) 
 - le presque permet de donner un avantage lors du nouvel essai, alors que le revers donnerait un handicap ? (cohérent mais nécessite de s'en souvenir -> nécessité de tenir un compte des mémos de ce type sur l'écran de la Destinée)
 
+Mais la frontière est mince entre  le -1 et le +1 et pas facile à maîtriser. Quelques pistes pour aider: 
+
+* le -1 est clairement un non mais tout reste possible avec une difficulté supplémentaire
+* le +1 peut être un oui mais (voire un oui avec sacrifice). Quand ce n'est pas possible c'est aussi un non mais avec un progrès (donc un avantage pour reessayer)
+
+Au niveau ressenti: 
+
+* le -1 est négatif: on n'a pas réussi à s'accomoder. S'il y avait un objectif sous-jacent il n'est pas atteint.
+* le +1 est positif: on a su s'accomoder. S'il y avait un objectif sous-jacent il n'a pas été atteint (sauf préjudice) ou alors il est atteint partiellement seulement. 
+
 ### Le paradoxe du sans appel 
 
 Comment décrire un résultat sans appel quand on ne sait pas encore si les protagonistes vont surenchérir ou pas ? 
@@ -61,11 +71,15 @@ La solution actuelle est de compter 1D rien que pour la présence dans l'opposit
 
 Mais ce n'est pas satisfaisant. Si l'on pouvait réaliser des tests simples (différents des oppositions) ca serait mieux. 
 
-Exemple: jet de danger d'une contrée: inconnue des joueurs, la guerre civile : donc 2D. La Destinée jette les dés et donc peut obtenir 0 pair: aucun danger, 1 pair: une difficulté surgit (ou un simple ressenti), 2 (un danger intervient vraiment), 3 (un danger extraordinaire surgit). 
+Exemple: jet de danger d'une contrée: inconnue des joueurs, la guerre civile : donc 2D. La Destinée jette les dés et donc peut obtenir 0 pair: aucun danger, 1 pair: une difficulté surgit (ou un simple ressenti), 2 pairs (un danger intervient vraiment), 3 pairs (un danger extraordinaire surgit). 
 
 Exemple: jet de prière : 1D -> impair (RAS), pair (il se passe quelque chose) et surtout si +2. 
 
-Cela pourrait etre aussi simple que ca. 
+Cela pourrait etre aussi simple que ca. On aurait les tests d'un côté et les oppositions de l'autre. 
+
+Ce qui est important de noter c'est qu'un simple test ne peut pas échouer: soit il n'active rien, soit il active quelque chose dans la fiction. Est-ce acceptable ? 
+
+Pour nuancer, rappelons qu'au niveau fiction, il ne se passe rien dans l'immédiat mais niveau Destin, il se passe quelque chose. En effet, un test contre les joueurs leur fait gagner des destins même s'il n'active rien et inversement, un test d'un joueur leur fait perdre des destins même s'il n'active rien. 
 
 ### Un jeu narratif guidé par les facteurs ?
 
@@ -79,7 +93,7 @@ Le jeu devrait essayer de donner un maximum de pouvoir de liberté aux protagoni
 
 * Les -/+3 sont de l'ordre de l'improbable, de la surprise
 * Les -/+2 sont de l'ordre du plus évident. 
-* Les -/+1 sont entre les deux. Ils peuvent faire surgir le plus évident mais aussi faire intervenir quelque chose d'improbable. 
+* Les -/+1 sont entre les deux. Ils peuvent faire surgir le plus évident mais aussi faire intervenir quelque chose d'improbable. Ce qui caractérise le plus les -/+1 c'est le côté irrésolu, incomplet, partiel de la résolution. 
 
 Note: ce qui est notable c'est qu'a nouveau le pair (+/-2) apparait comme facteur prépondérant alors que l'impair (+/-1, +/-3) apparaisseent plutot comme des facteurs rares, important a posteriori mais négligeables a priori. 
 
@@ -96,6 +110,15 @@ Possibilité ou pas d'introduire le fait que la Destinée jette des dés pour le
 ### Revue des situations types 
 
 #### Soin 
+
+| Résultat | Interprétation |
+|---|---|
+| -3 | |
+| -2 | |
+| -1 | |
+| +1 | |
+| +2 | |
+| +3 | |
 
 #### Résister à 
 
@@ -263,6 +286,21 @@ Les statistiques sont faites ici avec des dés du chaos au 1er jet mais pas apr�
 |8D|1D|98.793|1.207|0.0|0.034|1.173|7.129|12.289|79.375|0.034| 
 
 Concrètement c'est difficile de faire le total des pairs et des impairs surtout pour ne gérer que l'égalité. C'est pour cela que cette mécanique a été abandonnée. 
+
+### Statistiques des tests 
+
+
+|Test|0|+1|+2|+3|
+|:---:|---|---|---|---|
+|1D|50.125|41.568|8.307|0.0|
+|2D|24.823|41.828|25.824|7.525|
+|3D|12.626|30.927|32.378|24.069|
+|4D|6.224|20.806|30.237|42.733|
+|5D|3.086|12.982|24.472|59.46|
+|6D|1.548|7.651|17.46|73.341|
+|7D|0.725|4.533|12.343|82.399|
+|8D|0.385|2.629|8.226|88.76|
+|9D|0.188|1.441|5.135|93.236|
 
 ### Révéler les protagonistes
 
