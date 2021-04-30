@@ -2,7 +2,8 @@ _**Note de version**: travail en cours sur les diverses branches (dont main). Le
 
 # Règles
 
-[Règles du moteur de jeu](regles.md) **HaDes** (HAsard & DEStin) 
+[Règles du moteur de jeu](v2.md) **HaDes** (HAsard & DEStin)
+
 
 # Ressources 
 
