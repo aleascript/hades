@@ -52,6 +52,8 @@ Mais la frontière est mince entre  le -1 et le +1 et pas facile à maîtriser. 
 * le -1 est clairement un non mais tout reste possible avec une difficulté supplémentaire
 * le +1 peut être un oui mais (voire un oui avec sacrifice). Quand ce n'est pas possible c'est aussi un non mais avec un progrès (donc un avantage pour reessayer)
 
+Le moteur de la v2 permet de résoudre ce dilemme en équilibrant les stats et réduisant le -1 à une sorte de couleur narrative: un simple revers (qui offre souvent meme un avantage pour réussir par la suite).
+
 Au niveau ressenti: 
 
 * le -1 est négatif: on n'a pas réussi à s'accomoder. S'il y avait un objectif sous-jacent il n'est pas atteint.
@@ -65,21 +67,25 @@ Les solutions possibles:
 * La Destinée donne le choix entre la conséquence sans appel et la conséquence avec appel (donc souvent avec préjudice).
 * La Destinée choisit pour les protagonistes 
 
+La notion de sans appel devrait disparaitre. Les enjeux sont fixés par l'opposition. 
+
 ### Quand un protagoniste ou un obstacle n'a aucun trait ? 
 
 La solution actuelle est de compter 1D rien que pour la présence dans l'opposition. 
 
 Mais ce n'est pas satisfaisant. Si l'on pouvait réaliser des tests simples (différents des oppositions) ca serait mieux. 
 
-Exemple: jet de danger d'une contrée: inconnue des joueurs, la guerre civile : donc 2D. La Destinée jette les dés et donc peut obtenir 0 pair: aucun danger, 1 pair: une difficulté surgit (ou un simple ressenti), 2 pairs (un danger intervient vraiment), 3 pairs (un danger extraordinaire surgit). 
+Exemple: jet de danger d'une contrée: inconnue des joueurs, la guerre civile : donc 2D. La Destinée jette les dés et donc peut obtenir 0 pair: aucun danger, 1 pair: une difficulté surgit (ou un simple ressenti), 2 pairs (un danger intervient vraiment)
 
-Exemple: jet de prière : 1D -> impair (RAS), pair (il se passe quelque chose) et surtout si +2. 
+Exemple: jet de prière : 1D -> impair (RAS), pair (il se passe quelque chose).
 
 Cela pourrait etre aussi simple que ca. On aurait les tests d'un côté et les oppositions de l'autre. 
 
 Ce qui est important de noter c'est qu'un simple test ne peut pas échouer: soit il n'active rien, soit il active quelque chose dans la fiction. Est-ce acceptable ? 
 
 Pour nuancer, rappelons qu'au niveau fiction, il ne se passe rien dans l'immédiat mais niveau Destin, il se passe quelque chose. En effet, un test contre les joueurs leur fait gagner des destins même s'il n'active rien et inversement, un test d'un joueur leur fait perdre des destins même s'il n'active rien. 
+
+Ou alors partir du principe que dans tout test, il y a des facteurs contre à prendre en compte et donc tous les tests sont des oppositions. C'est le choix de HeroQuest et il me parait tout a fait acceptable. S'il n'y a aucun facteur contre, il n'y a pas lieu de réaliser le test et le résultat est automatique. 
 
 ### Un jeu narratif guidé par les facteurs ?
 
@@ -252,6 +258,8 @@ Mais cela pose alors deux questions:
 
 La Destinée pourrait construire son jeu en définissant un nombre de révélations possibles après la création du protagoniste pour permettre pendant le jeu de révéler des traits (non implicites) en dehors du mécanisme des Fortunes qui lui prendrait ensuite le relais une fois les révélations épuisées.  
 
+La v2 propose un mécanisme permettant de révéler des traits au fil de l'eau. 
+
 ### Création du jeu 
 
 Une idée commence à émerger: **jouer pour créer le jeu**
@@ -340,3 +348,7 @@ On pourrait ainsi rentrer de plain-pied dans le setting en jouant des résolutio
 On peut également faire l'exercice avec des ressources existantes pour transcrire au format HaDes des descriptions, statistiques d'autres moteurs de jeu. L'idée est d'avoir une fiche de lieu, de second rôle directement exploitable par la suite. 
 
 Reste maintenant à définir aussi une organisation de classement pour pouvoir s'y retrouver facilement.  
+
+# Un gameplay proche du jeu de société 
+
+Préparer des cartes et les révéler au fil du jeu. 
