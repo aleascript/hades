@@ -153,22 +153,23 @@ Dans une 1ere version, j'ai été tenté de distinguer:
 J'ai finalement fusionné les termes pour éviter d'introduire une nouvelle sémantique un peu lourde. 
 La Destinée est donc le joueur de la destinée et les Protagonistes sont les joueurs qui jouent les protagonistes ainsi que les protagonistes eux-mêmes pour favoriser l'immersion. En cas de distinguo (rare), il est facile de spécifier si c'est le  joueur du protagoniste ou le protagoniste lui-même. 
 
+Une version est en cours de dev avec le nommage suivant: 
+
+* Héros
+* Chaos
+* Cosmos
+
 ### Moteur de résolution
 
-On a privilégié la version simple car elle est la plus fluide car chaque champ annonce simplement le nombre de pairs obtenus et le résultat est immédiat. Dans la version avancée, c'est moins fluide car en cas d'égalité, il faut compter les scores et cela ralentit la fiction par des calculs à la marge. 
+On a privilégié la version simple car elle est la plus fluide car chaque champ annonce simplement le nombre de pairs obtenus et le résultat est immédiat. 
 
-Or le but du jeu n'est pas d'être un exercice de précision mais d'être orienté narration en restant plausible. 
+Les versions initiales faisaient intervenir des dés de chance et parfois un comptage des valeurs des dés. 
 
-Voici la version initiale qui était plus complexe en terme de calculs lors des égalités. 
+Ce n'était pas opérationnel. 
 
-**Jets de dés** (version avancée)
+Le fait de ne plus avoir de dés de chance permet par ailleurs d'utiliser n'importe quel dé (D6, D10, D20...) puisque seule la parité importe. 
 
-1. Chaque camp jette son pool de dés. 
-2. Pour chaque 6 obtenu, on lance un dé supplémentaire (qui peut donner lieu à d'autres lancers en cas de 6). On appelle ces dés les dés du chaos. 
-3. On compte ensuite le nombre de dés pairs obtenus dans chaque camp.
-4. Le résultat est égal au nombre dés pairs du protagoniste moins le nombre de dés pairs de l'obstacle. 
-5. En cas d'égalité des pairs, on additionne les valeurs des dés pairs de chaque camp. Si le protagoniste a un score supérieur ou égal à l'obstacle, il obtient un progrès (+1), sinon il subit un revers (-1).
-6. S'il n'y a aucun pair, on additionne les valeurs des dés de chaque champ. Si le protagoniste a un score supérieur ou égal à l'obstacle, il obtient un progrès (+1), sinon il subit un revers (-1).
+A chacun ses dés fétiches donc. 
 
 ### Statistiques
 
@@ -179,25 +180,51 @@ Malgré son appartent simplicité, les statistiques apparaissent plutôt riches 
 |Protagoniste|Obstacle|Succes|Echec|-3|-2|-1|+1|+2|+3|Fortunes|
 |---|---|---|---|---|---|---|---|---|---|---|
 |1D|1D|50|50|0|25|25|25|25|0|0|
-|1D|2D|37|63|12|38|12|25|12|0|12|
-|1D|3D|25|75|31|37|6|19|6|0|6|
-|1D|4D|16|84|50|31|3|13|3|0|3|
-|1D|5D|9|91|65|24|2|8|2|0|2|
+|1D|2D|38|62|12|37|12|25|13|0|13|
+|1D|3D|25|75|31|38|6|19|6|0|6|
+|1D|4D|16|84|50|31|3|12|3|0|3|
+|1D|5D|9|91|66|24|2|8|1|0|1|
 |1D|1D|50|50|0|25|25|25|25|0|0|
 |2D|1D|75|25|0|12|12|25|37|13|12|
-|3D|1D|88|12|0|6|6|18|38|32|6|
+|3D|1D|88|12|0|6|6|19|38|31|6|
 |4D|1D|94|6|0|3|3|12|31|50|3|
 |5D|1D|97|3|0|2|2|8|23|66|2|
 |1D|1D|50|50|0|25|25|25|25|0|0|
 |2D|2D|62|38|6|25|6|31|25|6|12|
-|3D|3D|64|36|11|24|2|30|23|11|22|
-|4D|4D|63|37|15|22|0|27|22|14|29|
+|3D|3D|64|36|11|23|2|30|23|11|22|
+|4D|4D|63|37|14|22|0|27|22|15|29|
 |5D|5D|62|38|17|20|0|25|21|17|34|
-|8D|8D|60|40|23|18|0|20|18|23|45|
-|1D|2D|38|62|12|38|12|25|13|0|13|
+|8D|8D|60|40|23|18|0|20|17|23|46|
+|1D|2D|37|63|12|38|13|25|12|0|12|
 |2D|3D|47|53|19|31|3|28|16|3|19|
-|3D|4D|49|51|22|27|1|27|16|6|23|
-|4D|5D|50|50|25|24|0|24|16|9|26|
+|3D|4D|49|51|23|27|1|26|16|6|23|
+|4D|5D|50|50|26|25|0|24|16|9|25|
+|7D|8D|50|50|30|19|0|20|15|15|30|
+|2D|1D|75|25|0|12|12|25|37|13|12|
+|3D|2D|78|22|3|16|3|28|31|19|19|
+|4D|3D|77|23|6|16|1|27|27|23|23|
+|5D|4D|74|26|9|17|0|24|25|25|26|
+|8D|7D|70|30|15|15|0|20|20|30|30|
+|1D|3D|25|75|31|37|6|19|6|0|6|
+|2D|4D|33|67|34|31|2|22|9|2|11|
+|3D|5D|36|64|36|27|0|21|11|4|15|
+|4D|6D|38|62|38|24|0|21|12|5|17|
+|7D|9D|40|60|40|20|0|17|12|10|23|
+|3D|1D|87|13|0|6|6|19|38|31|6|
+|4D|2D|87|13|2|10|2|22|31|34|11|
+|5D|3D|85|15|4|11|0|21|27|36|15|
+|6D|4D|83|17|6|12|0|20|25|38|17|
+|9D|7D|78|22|10|12|0|18|19|40|22|
+|1D|4D|16|84|50|31|3|13|3|0|3|
+|2D|5D|22|78|50|27|1|16|5|1|6|
+|3D|6D|25|75|50|25|0|16|7|2|9|
+|4D|7D|28|72|50|22|0|16|8|3|11|
+|7D|10D|31|69|50|19|0|15|9|7|17|
+|4D|1D|94|6|0|3|3|12|31|50|3|
+|5D|2D|93|7|1|5|1|15|27|50|6|
+|6D|3D|91|9|2|7|0|16|25|50|9|
+|7D|4D|89|11|3|8|0|16|22|50|11|
+|10D|7D|83|17|7|10|0|15|19|50|17|
 
 
 Il y a un léger avantage pour les protagonistes mais c'est assumé car ce sont eux les héros de l'histoire. 
