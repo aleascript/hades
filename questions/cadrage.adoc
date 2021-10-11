@@ -1,0 +1,16 @@
+== Questions de cadrage
+
+Le cadrage permet de spécifier l'univers de jeu et de le présenter en répondant aux 6 questions suivantes:
+
+1. OU, QUAND: Quels sont les **lieux types** ? A quelle époque joue-t'on ?
+- En particulier: où se déroulera l’action en début de partie?
+2. QUI: Quelles sont les **rencontres types** ?
+- En particulier: quelle est la population locale, les voisins connus?
+3. COMMENT: Quelles sont les **scènes types** du jeu dans cet univers ?
+- En particulier: ce que vous aimez ou n'aimez pas dans ce type d'univers
+4. QUOI: Quelles sont les **menaces types** ? Quels sont les problèmes ou dangers usuels de cet univers ? Quelles sont les sources connues de conflit ?
+5. COMBIEN: Quelles sont les **ressources types** ? Qu'est ce qui a de la valeur dans cet univers ?
+- En particulier c'est le moment pour définir les grandes lignes de pouvoir, le groupe des héros, l'économie, la technologie, le système de magie, etc...
+6. POURQUOI: Quels sont les **enjeux types**. Quels sont les buts personnels ou collectifs habituels dans cet univers ?
+- En particulier: quelles sont les motivations profondes des gens et plus particulièrement des héros (missions types) ?
+

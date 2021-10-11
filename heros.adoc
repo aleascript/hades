@@ -1,0 +1,32 @@
+= Guide du Héros
+aleascript@gmail.com
+Version 0.2
+:doctype: book
+//:sectnums:
+:toc:
+:toclevels: 4
+:toc-title: Table des matières
+:description: Ressources pour Héros
+:keywords: JdR
+:imagesdir: ./img
+
+= Les principes
+
+include::lexiques/principes_pour_tous.adoc[]
+
+include::lexiques/principes_heros.adoc[]
+
+= Pendant la préparation
+
+include::questions/heros.adoc[]
+
+include::questions/groupe.adoc[]
+
+include::lexiques/duo.adoc[]
+
+
+
+
+
+
+

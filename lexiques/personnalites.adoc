@@ -1,0 +1,532 @@
+== Liste de personnalités
+
+Plus de 500 personnalités prêtes à jouer.
+
+Accessible en mode Oracle avec 4d6.
+
+|===
+|Personnalité|d1|d2|d3|d4
+|À l’écoute|1|1|1|1-3
+|Abordable|1|1|1|4-6
+|Absorbé |1|1|2|1-3
+|Accessible|1|1|2|4-6
+|Accomodant|1|1|3|1-3
+|Accueillant|1|1|3|4-6
+|Actif|1|1|4|1-3
+|Adorable|1|1|4|4-6
+|Adroit|1|1|5|1-2
+|Affable|1|1|5|3-4
+|Affectueux|1|1|5|5-6
+|Agressif |1|1|6|1-2
+|Aidant|1|1|6|3-4
+|Aimable|1|1|6|5-6
+|Aimant|1|2|1|1-2
+|Altruiste|1|2|1|3-4
+|Ambigu|1|2|1|5-6
+|Ambitieux |1|2|2|1-3
+|Amical|1|2|2|4-6
+|Amusant|1|2|3|1-3
+|Angélique|1|2|3|4-6
+|Anxieux |1|2|4|1-3
+|Apaisant|1|2|4|4-6
+|Apathique|1|2|5|1-2
+|Appliqué|1|2|5|3-4
+|Arrogant|1|2|5|5-6
+|Artiste|1|2|6|1-2
+|Assidu|1|2|6|3-4
+|Asocial|1|2|6|5-6
+|Astucieux|1|3|1|1-3
+|Attachant|1|3|1|4-6
+|Attendrissant|1|3|2|1-3
+|Attentif |1|3|2|4-6
+|Attentionné|1|3|3|1-3
+|Audacieux|1|3|3|4-6
+|Authentique|1|3|4|1-3
+|Autodidacte|1|3|4|4-6
+|Autonome |1|3|5|1-2
+|Autoritaire|1|3|5|3-4
+|Autiste|1|3|5|5-6
+|Autoritaire|1|3|6|1-2
+|Avant-gardiste|1|3|6|3-4
+|Avare|1|3|6|5-6
+|Avenant|1|4|1|1-2
+|Averti|1|4|1|3-4
+|Battant|1|4|1|5-6
+|Bavard |1|4|2|1-3
+|Beau parleur|1|4|2|4-6
+|Belliqueux|1|4|3|1-3
+|Bête|1|4|3|4-6
+|Bienveillant|1|4|4|1-3
+|Blasé|1|4|4|4-6
+|Bon vivant|1|4|5|1-2
+|Bouffon|1|4|5|3-4
+|Bourru|1|4|5|5-6
+|Bout-en-train|1|4|6|1-2
+|Brave|1|4|6|3-4
+|Brillant|1|4|6|5-6
+|Bruyant |1|5|1|1-3
+|Brutal|1|5|1|4-6
+|Bûcheur|1|5|2|1-3
+|Buté|1|5|2|4-6
+|Cafardeux|1|5|3|1-3
+|Calme |1|5|3|4-6
+|Capricieux|1|5|4|1-3
+|Caractériel|1|5|4|4-6
+|Carriériste|1|5|5|1-2
+|Cassant|1|5|5|3-4
+|Casse-cou|1|5|5|5-6
+|Caustique|1|5|6|1-2
+|Catastrophiste|1|5|6|3-4
+|Censeur|1|5|6|5-6
+|Cérébral|1|6|1|1-2
+|Chaleureux|1|6|1|3-4
+|Chanceux|1|6|1|5-6
+|Charismatique|1|6|2|1-3
+|Charitable|1|6|2|4-6
+|Charmeur |1|6|3|1-3
+|Chieur|1|6|3|4-6
+|Cinglé|1|6|4|1-3
+|Coléreux|1|6|4|4-6
+|Combatif|1|6|5|1-2
+|Comique|1|6|5|3-4
+|Communicatif|1|6|5|5-6
+|Compatissant|1|6|6|1-2
+|Complaisant|1|6|6|3-4
+|Compétiteur|1|6|6|5-6
+|Complexé|2|1|1|1-3
+|Compliqué|2|1|1|4-6
+|Compréhensif|2|1|2|1-3
+|Concentré|2|1|2|4-6
+|Concerné|2|1|3|1-3
+|Conciliant|2|1|3|4-6
+|Concret |2|1|4|1-3
+|Confiant |2|1|4|4-6
+|Confiant en soi|2|1|5|1-2
+|Conformiste|2|1|5|3-4
+|Confus|2|1|5|5-6
+|Consciencieux|2|1|6|1-2
+|Constant|2|1|6|3-4
+|Contemplatif|2|1|6|5-6
+|Coopératif|2|2|1|1-2
+|Coquet|2|2|1|3-4
+|Couard|2|2|1|5-6
+|Courageux|2|2|2|1-3
+|Courtois|2|2|2|4-6
+|Créatif|2|2|3|1-3
+|Crédule|2|2|3|4-6
+|Critique|2|2|4|1-3
+|Cruel |2|2|4|4-6
+|Cultivé|2|2|5|1-2
+|Cupide|2|2|5|3-4
+|Curieux |2|2|5|5-6
+|Cynique|2|2|6|1-2
+|Débauché|2|2|6|3-4
+|Débonnaire|2|2|6|5-6
+|Débrouillard|2|3|1|1-3
+|Décent|2|3|1|4-6
+|Décontracté|2|3|2|1-3
+|Découragé|2|3|2|4-6
+|Dédaigneux|2|3|3|1-3
+|Défaitiste|2|3|3|4-6
+|Délicat|2|3|4|1-3
+|Dépendant |2|3|4|4-6
+|Dépensier|2|3|5|1-2
+|Déplaisant|2|3|5|3-4
+|Dépressif|2|3|5|5-6
+|Désabusé|2|3|6|1-2
+|Désenchanté|2|3|6|3-4
+|Désintéressé|2|3|6|5-6
+|Désinvolte|2|4|1|1-2
+|Désobéissant|2|4|1|3-4
+|Désordonné |2|4|1|5-6
+|Détendu |2|4|2|1-3
+|Déterminé|2|4|2|4-6
+|Détestable|2|4|3|1-3
+|Déviant|2|4|3|4-6
+|Dévoué|2|4|4|1-3
+|Diabolique|2|4|4|4-6
+|Digne|2|4|5|1-2
+|Digne de confiance|2|4|5|3-4
+|Dilettante|2|4|5|5-6
+|Diligent|2|4|6|1-2
+|Diplomate|2|4|6|3-4
+|Direct|2|4|6|5-6
+|Dirigiste|2|5|1|1-3
+|Discipliné|2|5|1|4-6
+|Discret|2|5|2|1-3
+|Disponible|2|5|2|4-6
+|Distingué|2|5|3|1-3
+|Distrait |2|5|3|4-6
+|Divertissant|2|5|4|1-3
+|Docile|2|5|4|4-6
+|Dominateur|2|5|5|1-2
+|Doucereux|2|5|5|3-4
+|Douteux|2|5|5|5-6
+|Doux |2|5|6|1-2
+|Dragueur |2|5|6|3-4
+|Droit|2|5|6|5-6
+|Drôle|2|6|1|1-2
+|Dur|2|6|1|3-4
+|Dynamique |2|6|1|5-6
+|Économe|2|6|2|1-3
+|Égoïste |2|6|2|4-6
+|Effacé|2|6|3|1-3
+|Efficace|2|6|3|4-6
+|Élégant|2|6|4|1-3
+|Éloquent|2|6|4|4-6
+|Émotif|2|6|5|1-2
+|Emouvant|2|6|5|3-4
+|Empathique|2|6|5|5-6
+|Empoté|2|6|6|1-2
+|Énergique|2|6|6|3-4
+|Énervant|2|6|6|5-6
+|Engagé|3|1|1|1-3
+|Énigmatique|3|1|1|4-6
+|Enjoué |3|1|2|1-3
+|Entêté|3|1|2|4-6
+|Effacé|3|1|3|1-3
+|Efficace|3|1|3|4-6
+|Enthousiaste|3|1|4|1-3
+|Entreprenant|3|1|4|4-6
+|Envahissant|3|1|5|1-2
+|Envieux|3|1|5|3-4
+|Escroc|3|1|5|5-6
+|Etourdi |3|1|6|1-2
+|Excentrique|3|1|6|3-4
+|Excessif|3|1|6|5-6
+|Expansif|3|2|1|1-2
+|Explorateur|3|2|1|3-4
+|Expressif|3|2|1|5-6
+|Extraverti|3|2|2|1-3
+|Exubérant|3|2|2|4-6
+|Fainéant|3|2|3|1-3
+|Familier|3|2|3|4-6
+|Fanatique|3|2|4|1-3
+|Fantasque|3|2|4|4-6
+|Fantaisiste |3|2|5|1-2
+|Fataliste|3|2|5|3-4
+|Fatiguant|3|2|5|5-6
+|Faux |3|2|6|1-2
+|Féminin|3|2|6|3-4
+|Fêtard|3|2|6|5-6
+|Ferme|3|3|1|1-3
+|Fermé|3|3|1|4-6
+|Fidèle|3|3|2|1-3
+|Fier|3|3|2|4-6
+|Fin|3|3|3|1-3
+|Flatteur|3|3|3|4-6
+|Flegmatique|3|3|4|1-3
+|Flexible|3|3|4|4-6
+|Fonceur|3|3|5|1-2
+|Fou|3|3|5|3-4
+|Fougueux|3|3|5|5-6
+|Fouineur|3|3|6|1-2
+|Fourbe|3|3|6|3-4
+|Franc|3|3|6|5-6
+|Froid|3|4|1|1-2
+|Fuyant|3|4|1|3-4
+|Gaffeur|3|4|1|5-6
+|Gai|3|4|2|1-3
+|Galant|3|4|2|4-6
+|Geignard|3|4|3|1-3
+|Généreux |3|4|3|4-6
+|Gentil|3|4|4|1-3
+|Glacial|3|4|4|4-6
+|Gourmand|3|4|5|1-2
+|Gracieux|3|4|5|3-4
+|Grégaire|3|4|5|5-6
+|Grincheux|3|4|6|1-2
+|Grossier |3|4|6|3-4
+|Hautain|3|4|6|5-6
+|Hédoniste|3|5|1|1-3
+|Hésitant|3|5|1|4-6
+|Honnête |3|5|2|1-3
+|Honorable|3|5|2|4-6
+|Humble |3|5|3|1-3
+|Humiliant |3|5|3|4-6
+|Hypocrite|3|5|4|1-3
+|Hystérique|3|5|4|4-6
+|Idiot|3|5|5|1-2
+|Imaginatif|3|5|5|3-4
+|Imbu de lui-même|3|5|5|5-6
+|Immature |3|5|6|1-2
+|Impartial |3|5|6|3-4
+|Impatient|3|5|6|5-6
+|Impliqué|3|6|1|1-2
+|Impoli |3|6|1|3-4
+|Imprudent |3|6|1|5-6
+|Impudent|3|6|2|1-3
+|Impulsif |3|6|2|4-6
+|Inaccessible|3|6|3|1-3
+|Inattentif|3|6|3|4-6
+|Inébranlable|3|6|4|1-3
+|Inconstant|3|6|4|4-6
+|Inculte|3|6|5|1-2
+|Indécis|3|6|5|3-4
+|Indépendant|3|6|5|5-6
+|Indifférent |3|6|6|1-2
+|Indiscret|3|6|6|3-4
+|Invidualiste|3|6|6|5-6
+|Indomptable|4|1|1|1-3
+|Indulgent|4|1|1|4-6
+|Influençable|4|1|2|1-3
+|Influent|4|1|2|4-6
+|Ingénieux|4|1|3|1-3
+|Inquiet|4|1|3|4-6
+|Insatisfait|4|1|4|1-3
+|Insolent|4|1|4|4-6
+|Insouciant|4|1|5|1-2
+|Instable|4|1|5|3-4
+|Intègre|4|1|5|5-6
+|Intégriste|4|1|6|1-2
+|Intellectuel |4|1|6|3-4
+|Intelligent|4|1|6|5-6
+|Interessé|4|2|1|1-2
+|Intolérant|4|2|1|3-4
+|Intransigeant|4|2|1|5-6
+|Intrépide|4|2|2|1-3
+|Introverti|4|2|2|4-6
+|Intuitif |4|2|3|1-3
+|Inventif |4|2|3|4-6
+|Ironique|4|2|4|1-3
+|Irraisonnable|4|2|4|4-6
+|Irréaliste|4|2|5|1-2
+|Irrésistible|4|2|5|3-4
+|Irrespectueux |4|2|5|5-6
+|Irresponsable|4|2|6|1-2
+|Irritant|4|2|6|3-4
+|Jaloux|4|2|6|5-6
+|Joueur|4|3|1|1-3
+|Jovial|4|3|1|4-6
+|Joyeux|4|3|2|1-3
+|Juge|4|3|2|4-6
+|Juste|4|3|3|1-3
+|Lâche|4|3|3|4-6
+|Laxiste|4|3|4|1-3
+|Lent|4|3|4|4-6
+|Logique|4|3|5|1-2
+|Lourd|4|3|5|3-4
+|Loyal|4|3|5|5-6
+|Lunatique |4|3|6|1-2
+|Lymphatique|4|3|6|3-4
+|M’as-tu-vu|4|3|6|5-6
+|Machiavélique|4|4|1|1-2
+|Macho|4|4|1|3-4
+|Magnanime|4|4|1|5-6
+|Maître de soi|4|4|2|1-3
+|Maladroit|4|4|2|4-6
+|Mal à l'aise|4|4|3|1-3
+|Mal élevé|4|4|3|4-6
+|Malhonnête |4|4|4|1-3
+|Malicieux|4|4|4|4-6
+|Malin|4|4|5|1-2
+|Malsain|4|4|5|3-4
+|Maniaque|4|4|5|5-6
+|Manichéen|4|4|6|1-2
+|Maniéré|4|4|6|3-4
+|Manipulateur|4|4|6|5-6
+|Manuel|4|5|1|1-3
+|Masochiste|4|5|1|4-6
+|Matérialiste|4|5|2|1-3
+|Mature|4|5|2|4-6
+|Mauvais|4|5|3|1-3
+|Méchant|4|5|3|4-6
+|Médisant|4|5|4|1-3
+|Méfiant|4|5|4|4-6
+|Mégalomane|4|5|5|1-2
+|Mélomane|4|5|5|3-4
+|Meneur|4|5|5|5-6
+|Menteur|4|5|6|1-2
+|Méprisant|4|5|6|3-4
+|Mesquin|4|5|6|5-6
+|Méthodique |4|6|1|1-2
+|Méticuleux|4|6|1|3-4
+|Minutieux|4|6|1|5-6
+|Misanthrope|4|6|2|1-3
+|Misogyne|4|6|2|4-6
+|Mnémonique|4|6|3|1-3
+|Modeste|4|6|3|4-6
+|Moqueur|4|6|4|1-3
+|Moralisateur|4|6|4|4-6
+|Mou|4|6|5|1-2
+|Mystérieux|4|6|5|3-4
+|Mystique|4|6|5|5-6
+|Mythomane|4|6|6|1-2
+|Naïf|4|6|6|3-4
+|Narcissique|4|6|6|5-6
+|Naturel|5|1|1|1-3
+|Négatif|5|1|1|4-6
+|Négligent|5|1|2|1-3
+|Nerveux|5|1|2|4-6
+|Nihiliste|5|1|3|1-3
+|Noceur|5|1|3|4-6
+|Nonchalant|5|1|4|1-3
+|Obéissant|5|1|4|4-6
+|Objectif|5|1|5|1-2
+|Observateur|5|1|5|3-4
+|Obsessionnel|5|1|5|5-6
+|Obstiné|5|1|6|1-2
+|Obtus|5|1|6|3-4
+|Occupé|5|1|6|5-6
+|Odieux|5|2|1|1-2
+|Opiniâtre|5|2|1|3-4
+|Opportuniste |5|2|1|5-6
+|Optimiste|5|2|2|1-3
+|Ordonné|5|2|2|4-6
+|Organisé|5|2|3|1-3
+|Orgueilleux|5|2|3|4-6
+|Original|5|2|4|1-3
+|Ouvert|5|2|4|4-6
+|Pacifique|5|2|5|1-2
+|Paisible|5|2|5|3-4
+|Paranoïaque|5|2|5|5-6
+|Paresseux |5|2|6|1-2
+|Passionné|5|2|6|3-4
+|Patient|5|2|6|5-6
+|Pédagogue|5|3|1|1-3
+|Pédant|5|3|1|4-6
+|Pensif|5|3|2|1-3
+|Perfectionniste|5|3|2|4-6
+|Persécuteur|5|3|3|1-3
+|Persévérant|5|3|3|4-6
+|Perspicace|5|3|4|1-3
+|Persuasif|5|3|4|4-6
+|Pervers|5|3|5|1-2
+|Pessimiste |5|3|5|3-4
+|Pétillant|5|3|5|5-6
+|Peureux|5|3|6|1-2
+|Phobique|5|3|6|3-4
+|Pince sans rire|5|3|6|5-6
+|Poli|5|4|1|1-2
+|Posé|5|4|1|3-4
+|Possessif|5|4|1|5-6
+|Pragmatique |5|4|2|1-3
+|Précieux|5|4|2|4-6
+|Prétentieux |5|4|3|1-3
+|Précis|5|4|3|4-6
+|Prévoyant|5|4|4|1-3
+|Pragmatique |5|4|4|4-6
+|Procrastinateur|5|4|5|1-2
+|Profiteur|5|4|5|3-4
+|Protecteur|5|4|5|5-6
+|Provocateur|5|4|6|1-2
+|Prudent|5|4|6|3-4
+|Psychotique|5|4|6|5-6
+|Puéril|5|5|1|1-3
+|Pudique|5|5|1|4-6
+|Raciste|5|5|2|1-3
+|Radin|5|5|2|4-6
+|Raisonnable|5|5|3|1-3
+|Râleur|5|5|3|4-6
+|Rancunier|5|5|4|1-3
+|Réaliste|5|5|4|4-6
+|Rebelle|5|5|5|1-2
+|Réfléchi |5|5|5|3-4
+|Remuant|5|5|5|5-6
+|Renfermé|5|5|6|1-2
+|Réservé |5|5|6|3-4
+|Responsable|5|5|6|5-6
+|Rêveur |5|6|1|1-2
+|Rabat-joie|5|6|1|3-4
+|Rancunier|5|6|1|5-6
+|Rassurant|5|6|2|1-3
+|Rationnel|5|6|2|4-6
+|Rebelle|5|6|3|1-3
+|Reconnaissant|5|6|3|4-6
+|Remuant|5|6|4|1-3
+|Renfermé|5|6|4|4-6
+|Renfrogné |5|6|5|1-2
+|Résigné|5|6|5|3-4
+|Responsable|5|6|5|5-6
+|Rétrograde|5|6|6|1-2
+|Revanchard|5|6|6|3-4
+|Rêveur|5|6|6|5-6
+|Révolté|6|1|1|1-3
+|Rigide|6|1|1|4-6
+|Rigolo |6|1|2|1-3
+|Ringard|6|1|2|4-6
+|Romantique|6|1|3|1-3
+|Roublard|6|1|3|4-6
+|Rouspéteur|6|1|4|1-3
+|Routinier|6|1|4|4-6
+|Rusé|6|1|5|1-2
+|Sadique|6|1|5|3-4
+|Sage|6|1|5|5-6
+|Sanguin|6|1|6|1-2
+|Sans pitié|6|1|6|3-4
+|Sarcastique|6|1|6|5-6
+|Sceptique|6|2|1|1-2
+|Secret |6|2|1|3-4
+|Sécurisant|6|2|1|5-6
+|Séducteur|6|2|2|1-3
+|Sensible |6|2|2|4-6
+|Sensuel|6|2|3|1-3
+|Sentimental|6|2|3|4-6
+|Serein|6|2|4|1-3
+|Sérieux|6|2|4|4-6
+|Serviable|6|2|5|1-2
+|Sévère|6|2|5|3-4
+|Silencieux |6|2|5|5-6
+|Simple|6|2|6|1-2
+|Snob|6|2|6|3-4
+|Sobre|6|2|6|5-6
+|Sociable|6|3|1|1-3
+|Soigné|6|3|1|4-6
+|Soigneux|6|3|2|1-3
+|Solidaire|6|3|2|4-6
+|Solitaire|6|3|3|1-3
+|Sombre|6|3|3|4-6
+|Sophistiqué|6|3|4|1-3
+|Soucieux|6|3|4|4-6
+|Soumis|6|3|5|1-2
+|Soupçonneux|6|3|5|3-4
+|Sournois |6|3|5|5-6
+|Spontané|6|3|6|1-2
+|Stable|6|3|6|3-4
+|Stoïque|6|3|6|5-6
+|Stressé|6|4|1|1-2
+|Strict|6|4|1|3-4
+|Stupide|6|4|1|5-6
+|Suffisant|6|4|2|1-3
+|Superficiel|6|4|2|4-6
+|Susceptible|6|4|3|1-3
+|Suiveur|6|4|3|4-6
+|Sûr de soi|6|4|4|1-3
+|Surprenant|6|4|4|4-6
+|Survolté |6|4|5|1-2
+|Susceptible|6|4|5|3-4
+|Sympathique|6|4|5|5-6
+|Taquin|6|4|6|1-2
+|Tâtillon|6|4|6|3-4
+|Téméraire|6|4|6|5-6
+|Tempêtueux|6|5|1|1-3
+|Tenace |6|5|1|4-6
+|Tendre|6|5|2|1-3
+|Terre-à-terre|6|5|2|4-6
+|Têtu|6|5|3|1-3
+|Timide|6|5|3|4-6
+|Tolérant|6|5|4|1-3
+|Torturé|6|5|4|4-6
+|Traditionnaliste|6|5|5|1-2
+|Traître|6|5|5|3-4
+|Transparent|6|5|5|5-6
+|Travailleur|6|5|6|1-2
+|Tricheur|6|5|6|3-4
+|Triste |6|5|6|5-6
+|Utopiste |6|6|1|1-2
+|Valeureux|6|6|1|3-4
+|Vaniteux |6|6|1|5-6
+|Vantard|6|6|2|1-3
+|Vénal|6|6|2|4-6
+|Versatile|6|6|3|1-3
+|Vicieux|6|6|3|4-6
+|Vif|6|6|4|1-2
+|Violent|6|6|4|3-4
+|Viril|6|6|4|5-6
+|Virulent|6|6|5|1-2
+|Visionnaire|6|6|5|3-4
+|Volontaire|6|6|6|5-6
+|Vrai |6|6|6|1-2
+|Vulgaire|6|6|6|3-4
+|Zélé|6|6|6|5-6
+|===

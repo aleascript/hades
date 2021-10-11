@@ -1,0 +1,17 @@
+== Question d'univers
+
+* Est-ce un univers déjà existant ?
+
+* Est-ce inspiré de quelque chose: livres, jeux vidéos, jeux de rôles, films, séries, bande-dessinées, etc... ?
+
+* Est-ce lié à une époque particulière ?
+
+* Est-ce un monde avec ou sans humain ?
+
+* Y a t'il du surnaturel, de la magie ?
+
+[.underline]#Ressources#:
+
+* link:../lexiques/univers.adoc[*lexiques -> univers*]: la liste des univers du jeu  Muses  & Oracles
+
+

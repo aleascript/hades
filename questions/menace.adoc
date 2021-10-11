@@ -1,0 +1,34 @@
+== Les menaces
+
+Les menaces (ou agendas, fronts) sont des outils promus par les jeux
+propulsés par l’Apocalypse.
+
+Au lieu d’écrire une trame toute faite, on décrit une menace sous
+forme de processus dont les étapes se manifestent quand les Héros
+échouent ou sont inactifs.
+
+En général, on a 6 étapes qui vont crescendo. La dernière étape étant
+alors la manifestation de la catastrophe imminente.
+
+Une menace est également composée de lieux, factions, personnages
+(sbires, etc...) , dangers divers associés à elle.
+
+La menace est à rattacher à l’intrigue en cours de manière directe
+pour une one shot ou de manière directe ou indirecte pour une
+campagne. Pour cela penser à l’enjeu de l’intrigue et cela devrait
+vous permettre d’élaborer une menace associée.
+
+Exemple: enquête -> enjeux pour trouver le coupable:
+
+- prouver son innocence: 1. auditionné 2. soupconné 3. suspect 4.
+arrêté 5. jugement 6. châtiment
+- le recruteur veut accuser untel mais untel est innocent: 1. fausses
+infos 2. surveillés 3. empêchés 4. attaqués 5. calomniés 6. éliminés
+(d’ici là les Héros se seront sans doute retournés contre le
+recruteur).
+- le tueur va recommencer: 1. Enquete normale 2. faux coupable arrêté 3. autre meurtre 4. autre meurtre proche des héros 5. le coupable s’en
+prend aux héros directement 6. le coupable s’en sort
+
+Ces étapes vous permettront de faire avancer l’intrigue et de monter
+la pression d’un cran pour les Héros. A user et abuser surtout en cas
+d’échec sur les jets ou si les héros ne font rien pour s’impliquer dans l’intrigue.

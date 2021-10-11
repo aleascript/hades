@@ -1,0 +1,43 @@
+== Univers prêts à jouer
+
+Je reprends ici la table des univers de Muses & Oracles
+
+|===
+| N° | Nom | D1 | D2
+| 1 | Western | 1 | 1
+| 2 | Renaissance | 1 | 2
+| 3 | Space Opera | 1 | 3
+| 4 | Contemporain | 1 | 4
+| 5 | Fantasy | 1 | 5
+| 6 | Pulp | 1 | 6
+| 7 | Polar | 2 | 1
+| 8 | Pirates | 2 | 2
+| 9 | Cyberpunk | 2 | 3
+| 10 | Cape et d'épée | 2 | 4
+| 11 | Antiquité | 2 | 5
+| 12 | Incas/Mayas | 2 | 6
+| 13 | Préhistoire | 3 | 1
+| 14 | Steampunk | 3 | 2
+| 15 | SF | 3 | 3
+| 16 | Egypte antique | 3 | 4
+| 17 | Horreur | 3 | 5
+| 18 | Vikings | 3 | 6
+| 19 | Asie ancienne | 4 | 1
+| 20 | Mondes parallèles | 4 | 2
+| 21 | Onirique | 4 | 3
+| 22 | Histoire uchronique | 4 | 4
+| 23 | Exploration spatiale | 4 | 5
+| 24 | Romance | 4 | 6
+| 25 | Post-apocalyptique | 5 | 1
+| 26 | Super-héros | 5 | 2
+| 27 | Médiéval | 5 | 3
+| 28 | Zombies | 5 | 4
+| 29 | Mille et une nuits | 5 | 5
+| 30 | Futur proche | 5 | 6
+| 31 | Monde perdu | 6 | 1
+| 32 | Monde aquatique | 6 | 2
+| 33 | Contes de fée | 6 | 3
+| 34 | Dystopie | 6 | 4
+| 35 | Guerre | 6 | 5
+| 36 | Révolution | 6 | 6
+|===

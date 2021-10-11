@@ -1,0 +1,32 @@
+= Guide du Chaos
+aleascript@gmail.com
+Version 0.2
+:doctype: book
+//:sectnums:
+:toc:
+:toclevels: 4
+:toc-title: Table des matières
+:description: Ressources pour Chaos
+:keywords: JdR
+:imagesdir: ./img
+
+= Les principes
+
+include::lexiques/principes_pour_tous.adoc[]
+
+include::lexiques/principes_chaos.adoc[]
+
+= Pendant la préparation
+
+include::lexiques/intrigues.adoc[]
+
+include::lexiques/complots.adoc[]
+
+include::questions/menace.adoc[]
+
+
+
+
+
+
+

@@ -1,0 +1,23 @@
+= HaDes - Hasard & Destin
+aleascript@gmail.com
+Version 0.1
+:doctype: book
+//:sectnums:
+:toc:
+:toclevels: 4
+:toc-title: Table des matières
+:description: HaDes est un jeu de rôles utilisant factum comme moteur de résolution et la tresse comme moteur narratif
+:keywords: JdR
+:imagesdir: ./img
+image::licence.png[]
+
+
+== Généralités
+
+HaDes contraction de Hasard & Destin est un jeu de rôles génériques qui s'appuie:
+
+* sur Factum pour les résolutions
+* sur La Tresse pour le partage d'autorité
+
+
+include::docs/gameplay.adoc[Déroulement d'une partie]

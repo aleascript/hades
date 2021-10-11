@@ -1,0 +1,11 @@
+== Jets de distance
+
+Ces jets permettent de répondre à des questions fermées pour mesurer une distance (Qui, Quand, Combien, Où ?...)
+
+
+|===
+|D6 |Qui? |Où? |Quand?| Combien?
+|1-2 |Protagoniste |Ici |Avant |Peu
+|3-4 |Neutre |Proche |Maintenant |Normal
+|5-6 |Antagoniste |Loin |Après |Beaucoup
+|===

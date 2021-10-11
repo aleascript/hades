@@ -1,0 +1,53 @@
+= Guide du Cosmos
+aleascript@gmail.com
+Version 0.2
+:doctype: book
+//:sectnums:
+:toc:
+:toclevels: 4
+:toc-title: Table des matières
+:description: Ressources pour Cosmos
+:keywords: JdR
+:imagesdir: ./img
+
+= Les principes
+
+include::lexiques/principes_pour_tous.adoc[]
+
+include::lexiques/principes_cosmos.adoc[]
+
+= Pendant le cadrage
+
+include::questions/univers.adoc[]
+
+include::lexiques/univers.adoc[]
+
+include::questions/cadrage.adoc[]
+
+include::questions/ambiance.adoc[]
+
+
+= Pendant la préparation et l'immersion
+
+include::questions/au_commencement.adoc[]
+
+include::lexiques/distances.adoc[]
+
+include::lexiques/directions_symboliques.adoc[]
+
+include::lexiques/generiques.adoc[]
+
+include::lexiques/personnalites.adoc[]
+
+include::lexiques/duo.adoc[]
+
+include::lexiques/lettres.adoc[]
+
+= Pendant le débrief
+
+include::questions/debrief.adoc[]
+
+
+
+
+

@@ -1,0 +1,116 @@
+== Lexiques génériques: qu'est ce qui rend quelque chose intéressant ?
+
+Ce qui permet de marquer les autres joueurs c'est de créer des éléments narratifs intéressants. Posez-vous donc la question suivant: qu'est ce qui rend intéressant: un objet, un personnage, un lieu, une scène, une menace, une intrigue, etc... ?
+
+Rappel: show, not tell. C'est à dire que le focus est développé en live.
+
+Voici quelques lexiques applicables à n'importe quel contexte.
+
+Ces lexiques sont à disposition de Chaos mais Cosmos peut également se servir des lexiques pour les objets, lieux et personnages.
+
+Détermination du focus:
+|===
+| 1 | 2 | 3 | 4 | 5 | 6
+| Objet | Rencontre | Lieu | Scène | Menace | Intrigue
+|===
+
+=== Objet
+
+1. unique
+2. convoité
+3. illégal
+4. n'est pas ce qu'il paraît ou ce qu'on croit
+5. incompréhensible
+6. inviolable
+7. maudit
+8. la clé de quelque chose
+9. possédé
+10. défaillant
+11. mouchard
+12. empoisonné
+13. vital
+14. extrêmement fragile
+15. indestructible
+
+
+=== Rencontre
+
+1. a une particularité physique remarquable
+2. fourbe (traîtrise, vol, assassinat)
+3. veut utiliser les héros uniquement pour son propre bénéfice
+(intéressé)
+4. développe des sentiments pour le héros
+5. veut à tout prix convaincre, convertir, rallier
+6. si tu n'es pas avec moi, tu es contre moi
+7. ennemis héréditaires
+8. veut à tout prix quelque chose qu'a le héros
+9. moqueur
+10. ne parle pas la même langue
+11. la personne recherchée par "tous"
+12. une célébrité
+13. sait des choses
+14. n'est pas ce qu'il prétend ou ce qu'il parait
+15. pense différemment
+16. souhaite la mort d'un autre
+17. suicidaire
+18. terriblement attirant, repoussant
+19. dans un état second
+20. fou, psychopathe
+21. a des tics nerveux
+22. prisonnier, cherche à s’évader, s'enfuir
+23. rejeté par les siens
+24. la personne est morte ou a disparu quand les héros arrivent
+25. a besoin d'aide
+
+=== Lieu
+
+1. malfamé
+2. interdit
+3. labyrinthique
+4. hanté
+5. illusion
+6. rempli d'innocents
+7. sans issue apparente
+8. sur le point de s’écrouler, d'exploser
+9. aucun repère apparent
+10. protégé
+11. piégé
+
+
+=== Scène
+
+1. action
+2. une bagarre explose
+3. énigme à résoudre
+4. investigation
+5. interrogatoire
+6. marchandage
+7. diplomatie
+8. émotions (révélations, confidences, sentiments...)
+9. poursuite
+10. concours
+11. émerveillement
+
+
+=== Menace
+
+1. la menace en cache une plus grande
+2. avancer d'un cran
+3. révéler une catastrophe imminente
+4. contrecarrer la menace
+5. discrédite les héros
+6. observe, espionne les héros
+7. s'en prend aux proches des héros
+8. attaque les héros
+9. renforce ses défenses
+10. cherche, trouve un nouvel allié
+11. apparition d'une nouvelle menace
+
+
+=== Intrigue
+
+1. nouvelle intrigue (story b)
+2. coup de théâtre, rebondissement
+3. piste : nouvelle, brouillage ou disparition
+4. implication personnelle
+
