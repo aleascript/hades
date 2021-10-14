@@ -14,3 +14,4 @@ Le cadrage permet de spécifier l'univers de jeu et de le présenter en réponda
 6. POURQUOI: Quels sont les **enjeux types**. Quels sont les buts personnels ou collectifs habituels dans cet univers ?
 - En particulier: quelles sont les motivations profondes des gens et plus particulièrement des héros (missions types) ?
 
+_Note: on peut jeter un D6 pour déterminer quelle question posée en passant au chiffre suivant en cas de chiffre déjà obtenu._
