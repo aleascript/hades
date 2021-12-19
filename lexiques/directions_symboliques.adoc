@@ -10,6 +10,7 @@ Les interprétations se basent sur la numérologie du résultat d'un D6.
 
 |  |  1 | 2 | 3 | 4 | 5 | 6
 | **Champ** | **Lieu**, objet, matériel, terre à terre | **Rencontre**, personne, nouveauté | **Relations**, émotions, motivations, ce qui relie | **Loi**, autorité, dilemme moral, ce qui nous dépasse | **Ressource**, ce qui est vital, tentation, manque | **Mystère**, surprise, inattendu, hors-champ
+| **Focus** |  Intrigue (interne) | Menace (interne) | Protagoniste (interne) | Protagoniste (externe) | Menace (externe) | Intrigue (externe)
 | **Action** |  Affronter | Contourner | Négocier | Résoudre | Encaisser | Observer
 | **Déclencheur**| Mais (contrariété) | Et aussi (surenchère) | Ou bien (choix) | Si...alors (subir conséquences) | Tant que, du fait de ... (rechercher les causes) | Afin de ... (aller au delà)
 | **Emotion** | Peur | Colère | Joie |  Dégoût | Envie, Tristesse | Surprise, Honte
@@ -43,3 +44,24 @@ Puis on affine de la manière suivante:
 *  1 jet symbolique pour connaître les **moyens** ou les **motifs** du second rôle.
 
 Cela donne 108 combinaisons. On peut même affiner encore plus en ajoutant un 4ème jet symbolique pour déterminer le **secret** ou la **faiblesse** du second rôle (ce qui aboutit à 648 types possibles).
+
+== Utiliser les focus
+
+Les focus permettent de déterminer quel est le focus de la situation à jouer.
+
+Le focus peut-être:
+
+* une intrigue déjà existante ou nouvelle.
+* une menace déjà existante ou nouvelle.
+* un protagoniste
+
+La notion d'interne/externe est floue et cognitive et correspond au distinguo suivant:
+
+* **interne**: connu, probable, trivial, local, personne, unique, nœud, ...
+* **externe**: inconnu, improbable, rare, global, groupe, multiple, lien, ...
+
+Le focus permet également de définir une structure narrative découpée en forme de cycles. On découpe l'histoire en cycles où chaque cycle comporte 1 ou 2 focus de chaque type. Un cycle sera donc composé de 3 ou 5 situations.
+
+On passe au cycle suivant quand le cycle contient un type de chaque.
+
+Quand on tire le focus, on doit donc noter les valeurs obtenues. Si on retombe sur une valeur existante, on choisit le focus le plus proche en privilégiant le protagoniste s'il y a équidistance. Mais on peut également utiliser des cartes de 1 à 6 sans remise également pour se simplifier la vie.
